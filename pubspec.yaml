@@ -36,6 +36,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   dio: ^4.0.6
 
+   # Use to access the local path.
+  path_provider: ^0.5.0+1
+  flutter_share: ^2.0.0
+  share: ^2.0.4
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
